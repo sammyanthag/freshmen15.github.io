@@ -12,6 +12,10 @@
   margin-bottom: 3rem;
 }
 
+.well ul > li a {
+  color: #333;
+}
+
 .well ul > li span {
   color: gray;
   font-weight: normal;
