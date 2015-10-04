@@ -1,0 +1,26 @@
+.red {
+  color: red;
+}
+
+.well ul {
+  margin: 0;
+  padding: 0;
+}
+
+.well ul > li {
+  list-style: none;
+  margin-bottom: 3rem;
+}
+
+.well ul > li span {
+  color: gray;
+  font-weight: normal;
+}
+
+.content h4 {
+  margin-top: 3rem;
+}
+
+footer.footer {
+  color: gray;
+}
